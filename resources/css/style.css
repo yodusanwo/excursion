@@ -7,7 +7,12 @@ h1, p {
 p {color: Aquamarine;
    font-size:16px;}
 
-#discover {
-  font-size:50px;
-  color: white;
+.item h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.center {
+  margin: 0 auto;
+  display: block;
 }
