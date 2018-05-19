@@ -1,10 +1,12 @@
 body {background-color: black;}
 
-h1 {
+h1, p {
   text-align: center;
-  color: white;
 }
+
+p {color: Aquamarine;}
 
 #discover {
   font-size:50px;
+  color: white;
 }
