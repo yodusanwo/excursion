@@ -1,10 +1,13 @@
-body {background-color: black;}
-
-h1,p,h2,h3 {
+body {
+    background-color: black;
     font-family:"Verdana", sans-serif;
     text-align: center;
     color: white;
-    font-weight: normal; !Important
+    font-weight: normal;!Important
+}
+
+h1, h3, p, a{
+    font-weight: Normal;!Important
 }
 
 a {
@@ -15,7 +18,7 @@ a {
 
 h2 {
   font-size: 42px;
-  font-weight: 300; !Important
+  font-weight: 300;!Important
 }
 
 h3 {
@@ -25,7 +28,6 @@ h3 {
 
 #discover {
     font-size: 50px;
-
 }
 
 .center {
