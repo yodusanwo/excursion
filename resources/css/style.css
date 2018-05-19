@@ -1,22 +1,30 @@
 body {background-color: black;}
 
-h1,p {
+h1,p,h2,h3 {
     font-family:"Verdana", sans-serif;
     text-align: center;
+    color: white;
 }
 
-p {color: Aquamarine;
+a {
+   color: Aquamarine;
    font-size:16px;
-   text-align: center;}
+   text-align: center;
+ }
 
 h2 {
-     font-size:10px;
-     color:white;
-   }
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 21px;
+  color: grey; 
+  font-weight: normal; !Important
+}
 
 #discover {
     font-size: 50px;
-    color:white;
 }
 
 .center {
